@@ -1,5 +1,7 @@
 # Fraud Detection Using Machine Learning Algorithms
 
+![Fraud Detection](<Images/Fraud Detection.png>)
+
 # Introduction
 In this project, I explore the application of machine learning techniques to the problem of credit card fraud detection. Given the rapid increase in online transactions, fraud detection has become more important than ever, and machine learning offers powerful tools to tackle this challenge.
 
